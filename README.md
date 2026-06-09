@@ -36,8 +36,8 @@ This internship focuses on mastering Python fundamentals, data structures, and r
 ---
 
 ## 👤 Connect with me
-- **LinkedIn:** [Insert your LinkedIn Profile Link Here]
-- **GitHub:** [Insert your GitHub Profile Link Here]
+- **LinkedIn:** [https://www.linkedin.com/in/shahzaib-arshad-20aaba3b5?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+- **GitHub:** []
 
 *Thank you for visiting my repository!*
 
